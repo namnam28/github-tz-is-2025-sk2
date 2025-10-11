@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Administrator\\Documents\\IS-2025\\github-tz-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "C:\\aaa\\IS-2025-Sk2\\github-tz-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+  },
+  "projects": {
+    "C:\\aaa\\IS-2025-Sk2\\github-tz-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\aaa\\IS-2025-Sk2\\github-tz-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectName": "program001-vypis-rady",
+        "projectPath": "C:\\aaa\\IS-2025-Sk2\\github-tz-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "packagesPath": "C:\\Users\\Uzivatel\\.nuget\\packages\\",
+        "outputPath": "C:\\aaa\\IS-2025-Sk2\\github-tz-is-2025-sk2\\IS-Programy\\program001-vypis-rady\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Uzivatel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 9c63fc417b4e56a34c3c5935faedf7a623ed9522
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -36,9 +53,15 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
+<<<<<<< HEAD
           "auditMode": "all"
         },
         "SdkAnalysisLevel": "9.0.100"
+=======
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+>>>>>>> 9c63fc417b4e56a34c3c5935faedf7a623ed9522
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +82,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 9c63fc417b4e56a34c3c5935faedf7a623ed9522
         }
       }
     }
