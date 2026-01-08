@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program006-min-max\bin\Debug\net9.0\program006-min-max.exe
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program006-min-max\bin\Debug\net9.0\program006-min-max.deps.json
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program006-min-max\bin\Debug\net9.0\program006-min-max.runtimeconfig.json
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program006-min-max\bin\Debug\net9.0\program006-min-max.dll
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program006-min-max\bin\Debug\net9.0\program006-min-max.pdb
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program006-min-max\obj\Debug\net9.0\program006-min-max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program006-min-max\obj\Debug\net9.0\program006-min-max.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program006-min-max\obj\Debug\net9.0\program006-min-max.AssemblyInfo.cs
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program006-min-max\obj\Debug\net9.0\program006-min-max.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program006-min-max\obj\Debug\net9.0\program006-min-max.sourcelink.json
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program006-min-max\obj\Debug\net9.0\program006-min-max.dll
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program006-min-max\obj\Debug\net9.0\refint\program006-min-max.dll
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program006-min-max\obj\Debug\net9.0\program006-min-max.pdb
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program006-min-max\obj\Debug\net9.0\program006-min-max.genruntimeconfig.cache
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program006-min-max\obj\Debug\net9.0\ref\program006-min-max.dll

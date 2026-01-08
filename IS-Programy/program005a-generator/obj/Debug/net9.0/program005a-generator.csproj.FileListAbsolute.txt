@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program005a-generator\obj\Debug\net9.0\program005a-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program005a-generator\obj\Debug\net9.0\program005a-generator.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program005a-generator\obj\Debug\net9.0\program005a-generator.AssemblyInfo.cs
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program005a-generator\obj\Debug\net9.0\program005a-generator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program005a-generator\obj\Debug\net9.0\program005a-generator.sourcelink.json
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program005a-generator\bin\Debug\net9.0\program005a-generator.exe
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program005a-generator\bin\Debug\net9.0\program005a-generator.deps.json
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program005a-generator\bin\Debug\net9.0\program005a-generator.runtimeconfig.json
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program005a-generator\bin\Debug\net9.0\program005a-generator.dll
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program005a-generator\bin\Debug\net9.0\program005a-generator.pdb
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program005a-generator\obj\Debug\net9.0\program005a-generator.dll
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program005a-generator\obj\Debug\net9.0\refint\program005a-generator.dll
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program005a-generator\obj\Debug\net9.0\program005a-generator.pdb
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program005a-generator\obj\Debug\net9.0\program005a-generator.genruntimeconfig.cache
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program005a-generator\obj\Debug\net9.0\ref\program005a-generator.dll
