@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program009a-10to2\bin\Debug\net9.0\program009a-10to2.exe
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program009a-10to2\bin\Debug\net9.0\program009a-10to2.deps.json
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program009a-10to2\bin\Debug\net9.0\program009a-10to2.runtimeconfig.json
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program009a-10to2\bin\Debug\net9.0\program009a-10to2.dll
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program009a-10to2\bin\Debug\net9.0\program009a-10to2.pdb
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program009a-10to2\obj\Debug\net9.0\program009a-10to2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program009a-10to2\obj\Debug\net9.0\program009a-10to2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program009a-10to2\obj\Debug\net9.0\program009a-10to2.AssemblyInfo.cs
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program009a-10to2\obj\Debug\net9.0\program009a-10to2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program009a-10to2\obj\Debug\net9.0\program009a-10to2.sourcelink.json
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program009a-10to2\obj\Debug\net9.0\program009a-10to2.dll
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program009a-10to2\obj\Debug\net9.0\refint\program009a-10to2.dll
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program009a-10to2\obj\Debug\net9.0\program009a-10to2.pdb
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program009a-10to2\obj\Debug\net9.0\program009a-10to2.genruntimeconfig.cache
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\program009a-10to2\obj\Debug\net9.0\ref\program009a-10to2.dll

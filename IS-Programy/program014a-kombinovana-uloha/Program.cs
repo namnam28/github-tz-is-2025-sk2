@@ -8,7 +8,7 @@ while (again == "a")
     Console.WriteLine("*************** Ngo Nam Khánh ***************");
     Console.WriteLine("*******************************************");
     Console.WriteLine();
-    
+
     Console.Write("Zadejte počet generovaných čísel (celé číslo): ");
     int n;
 
@@ -48,9 +48,9 @@ while (again == "a")
     Console.WriteLine();
     Console.WriteLine("=============================================");
     Console.WriteLine("Pseudonáhodná čísla:");
-    for (int i = 0; i < n ; i++)
+    for (int i = 0; i < n; i++)
     {
-        numbs[i] = myRandNumb.Next(lowerBound, upperBound+1);
+        numbs[i] = myRandNumb.Next(lowerBound, upperBound + 1);
         Console.Write("{0}; ", numbs[i]);
     }
 
@@ -59,7 +59,8 @@ while (again == "a")
     // ------------------------------------
     int max = numbs[0];
     int min = numbs[0];
-    for (int i = 1; i < n; i++) {
+    for (int i = 1; i < n; i++)
+    {
         if (numbs[i] > max)
             max = numbs[i];
         if (numbs[i] < min)
@@ -79,7 +80,7 @@ while (again == "a")
         if (numbs[i] == min)
             Console.Write($"{i}; ");
 
-    
+
     // ------------------------------------
     // Seřazení pole - neumím zadaný, používám Bubble Sort
     // ------------------------------------
@@ -87,13 +88,13 @@ while (again == "a")
     {
         for (int j = 0; j < n - i - 1; j++)
         {
-            
+
             if (numbs[j] < numbs[j + 1])
             {
                 int tmp = numbs[j + 1];
                 numbs[j + 1] = numbs[j];
                 numbs[j] = tmp;
-                
+
             }
         }
     }
@@ -112,13 +113,14 @@ while (again == "a")
     int uniqueCount = 0;
     int lastValue = int.MinValue;
     int second = 0, third = 0, fourth = 0;
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++)
+    {
         if (numbs[i] != lastValue)
         {
             uniqueCount++;
             lastValue = numbs[i];
 
-            if (uniqueCount == 2) 
+            if (uniqueCount == 2)
                 second = numbs[i];
             if (uniqueCount == 3)
                 third = numbs[i];
@@ -126,13 +128,13 @@ while (again == "a")
                 fourth = numbs[i];
         }
     }
-    
+
     Console.WriteLine();
     Console.WriteLine("==================================");
     Console.WriteLine("Druhé největší číslo: " + second);
     Console.WriteLine("Třetí největší číslo: " + third);
     Console.WriteLine("Čtvrté největší číslo: " + fourth);
-    
+
     // ------------------------------------
     // Medián
     // ------------------------------------
@@ -141,32 +143,60 @@ while (again == "a")
         median = numbs[n / 2];
     else
         median = (numbs[n / 2 - 1] + numbs[n / 2]) / 2;
-    
+
     Console.WriteLine();
-    Console.WriteLine("=================================="); 
+    Console.WriteLine("==================================");
     Console.WriteLine($"Medián: {median}");
+
+
+    // ------------------------------------
+    // Modus (Nejčastější hodnota)
+    // ------------------------------------
+    int modus = numbs[0];
+    int maxVyskyt = 0;
+
+    for (int i = 0; i < n; i++)
+    {
+        int aktualniVyskyt = 0;
+        for (int j = 0; j < n; j++)
+        {
+            if (numbs[j] == numbs[i])
+                aktualniVyskyt++;
+        }
+
+        if (aktualniVyskyt > maxVyskyt)
+        {
+            maxVyskyt = aktualniVyskyt;
+            modus = numbs[i];
+        }
+    }
+
+    Console.WriteLine();
+    Console.WriteLine();
+    Console.WriteLine("==================================");
+    Console.WriteLine($"Modus (nejčastější číslo): {modus}; vyskytuje se {maxVyskyt}x");
 
     // ------------------------------------
     // Čtvrté největší číslo převedené do binární soustavy
     // ------------------------------------
     string bin = "";
     int x = fourth;
-    if (x == 0) bin = "0";
+    
     while (x > 0)
     {
         bin = (x % 2) + bin;
         x /= 2; // to samé jako x = x / 2;
     }
     Console.WriteLine();
-    Console.WriteLine("=================================="); 
+    Console.WriteLine("==================================");
     Console.WriteLine($"Čtvrté největší číslo v binární soustavě: {fourth}(2) = {bin}");
 
     // ------------------------------------
     // Obrazec: výška podle mediánu a šířka podle třetího největšího čísla
     // ------------------------------------
     Console.WriteLine();
-    Console.WriteLine("=================================="); 
-    
+    Console.WriteLine("==================================");
+
     int height = median;
     int width = third;
 
@@ -225,8 +255,73 @@ while (again == "a")
         }
     }
 
+    // ------------------------------------
+    // Výpočet průměru a hledání čísel větších než průměr
+    // ------------------------------------
+    // ------------------------------------
+    // Výpočet průměru a výpis čísel větších než průměr
+    // ------------------------------------
+    double soucetProPrumer = 0;
+    for (int i = 0; i < n; i++)
+    {
+        soucetProPrumer += numbs[i];
+    }
+    double prumer = soucetProPrumer / n;
+
+    Console.WriteLine();
+    Console.WriteLine("==================================");
+    Console.WriteLine($"Aritmetický průměr: {prumer:F2}");
+
+    Console.Write("Čísla větší než průměr: ");
+    for (int i = 0; i < n; i++)
+    {
+        if (numbs[i] > prumer)
+        {
+            Console.Write($"{numbs[i]}; ");
+        }
+    }
+    Console.WriteLine();
+
+
+    // ------------------------------------
+    // Fibonacciho posloupnost
+    // Počet prvků určíme například podle druhého největšího čísla (proměnná second)
+    // ------------------------------------
+    // ------------------------------------
+    int pocetPrvku = second;
+
+    long[] fib = new long[pocetPrvku];
+
+    // První dva členy jsou pevně dané
+    fib[0] = 0;
+    fib[1] = 1;
+
+    // Výpočet dalších členů: F(n) = F(n-1) + F(n-2)
+    for (int i = 2; i < pocetPrvku; i++)
+    {
+        fib[i] = fib[i - 1] + fib[i - 2];
+    }
+
+    Console.WriteLine();
+    Console.WriteLine("==================================");
+    Console.WriteLine($"Fibonacciho posloupnost (prvních {pocetPrvku} prvků):");
+    for (int i = 0; i < pocetPrvku; i++)
+    {
+        Console.Write($"{fib[i]}; ");
+    }
+
+    // Součet prvků
+    long soucetFib = 0;
+    foreach (long f in fib)
+    {
+        soucetFib += f;
+    }
+    Console.WriteLine($"\nSoučet těchto prvků je: {soucetFib}");
+
 
     
+
+
     Console.WriteLine();
     Console.WriteLine();
     Console.WriteLine();
@@ -235,3 +330,4 @@ while (again == "a")
 
 
 }
+

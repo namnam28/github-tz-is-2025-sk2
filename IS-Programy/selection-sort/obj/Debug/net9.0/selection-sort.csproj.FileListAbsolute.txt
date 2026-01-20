@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\selection-sort\bin\Debug\net9.0\selection-sort.exe
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\selection-sort\bin\Debug\net9.0\selection-sort.deps.json
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\selection-sort\bin\Debug\net9.0\selection-sort.runtimeconfig.json
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\selection-sort\bin\Debug\net9.0\selection-sort.dll
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\selection-sort\bin\Debug\net9.0\selection-sort.pdb
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\selection-sort\obj\Debug\net9.0\selection-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\selection-sort\obj\Debug\net9.0\selection-sort.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\selection-sort\obj\Debug\net9.0\selection-sort.AssemblyInfo.cs
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\selection-sort\obj\Debug\net9.0\selection-sort.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\selection-sort\obj\Debug\net9.0\selection-sort.sourcelink.json
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\selection-sort\obj\Debug\net9.0\selection-sort.dll
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\selection-sort\obj\Debug\net9.0\refint\selection-sort.dll
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\selection-sort\obj\Debug\net9.0\selection-sort.pdb
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\selection-sort\obj\Debug\net9.0\selection-sort.genruntimeconfig.cache
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\selection-sort\obj\Debug\net9.0\ref\selection-sort.dll

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\insertion-sort\bin\Debug\net9.0\insertion-sort.exe
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\insertion-sort\bin\Debug\net9.0\insertion-sort.deps.json
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\insertion-sort\bin\Debug\net9.0\insertion-sort.runtimeconfig.json
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\insertion-sort\bin\Debug\net9.0\insertion-sort.dll
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\insertion-sort\bin\Debug\net9.0\insertion-sort.pdb
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\insertion-sort\obj\Debug\net9.0\insertion-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\insertion-sort\obj\Debug\net9.0\insertion-sort.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\insertion-sort\obj\Debug\net9.0\insertion-sort.AssemblyInfo.cs
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\insertion-sort\obj\Debug\net9.0\insertion-sort.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\insertion-sort\obj\Debug\net9.0\insertion-sort.sourcelink.json
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\insertion-sort\obj\Debug\net9.0\insertion-sort.dll
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\insertion-sort\obj\Debug\net9.0\refint\insertion-sort.dll
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\insertion-sort\obj\Debug\net9.0\insertion-sort.pdb
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\insertion-sort\obj\Debug\net9.0\insertion-sort.genruntimeconfig.cache
+C:\Users\Administrator\Documents\IS-2025\github-NNK-is-2025-sk2\IS-Programy\insertion-sort\obj\Debug\net9.0\ref\insertion-sort.dll

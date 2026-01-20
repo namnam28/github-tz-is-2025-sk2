@@ -98,7 +98,7 @@ while (again == "a")
     for (int i = 0; i < n; i++)
     if (n >= 2)
         {
-            Console.WriteLine($"Druhé největší číslo je: {0}", myRandNumbs[1]);
+            Console.WriteLine($"Druhé největší číslo je: {0}", myRandNumbs[i]);
         }
     
     
